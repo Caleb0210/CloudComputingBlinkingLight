@@ -5,7 +5,7 @@ Author: Devin Walton
 /* Fill-in information from Blynk Device Info here */
 #define BLYNK_TEMPLATE_ID           "TMPL2CJLQhsjV"
 #define BLYNK_TEMPLATE_NAME         "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "-K4mAa-8JOxLLZh6EI7T1HiJe4czBQqj"
+#define BLYNK_AUTH_TOKEN            ""
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial

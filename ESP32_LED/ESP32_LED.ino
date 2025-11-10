@@ -7,7 +7,7 @@
 // ===== BLYNK SETTINGS =====
 #define BLYNK_TEMPLATE_ID "TMPL2CJLQhsjV"
 #define BLYNK_TEMPLATE_NAME "Quickstart Device"
-#define BLYNK_AUTH_TOKEN ""
+#define BLYNK_AUTH_TOKEN "-K4mAa-8JOxLLZh6EI7T1HiJe4czBQqj"
 #define BLYNK_PRINT Serial
 
 // ===== INCLUDES =====
@@ -15,8 +15,8 @@
 #include <BlynkSimpleEsp32.h>
 
 // ===== WIFI =====
-char ssid[] = "";        // Change this
-char pass[] = "";    // Change this
+char ssid[] = "PreserveH108";        // Change this
+char pass[] = "LaTech!H108";    // Change this
 
 // ===== LED PIN =====
 int ledPin = 16;
